@@ -1,5 +1,5 @@
 # MUSI-6202-AL
-Digital signal Processing
+Digital Signal Processing
 
 Assignment 1
 - run directly in the assignment1 folder
