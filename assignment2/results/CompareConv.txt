@@ -1,0 +1,5 @@
+#compare convolution between handcode funcation and scipy function
+m = 1327044.4014853623
+mabs = 517574604.4957195
+stdev = 815011054.4071795
+time = (0.9060459136962891, 0.010140180587768555)
