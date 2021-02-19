@@ -1,0 +1,14 @@
+Q3.4:
+
+22050 / 11025 = 2 Hz
+
+Q3.5:
+
+22050 / 22050 = 1 Hz (increasing FFT samples)
+
+Q4.3:
+
+The difference comes from the freq response of the 2 window.
+We know the windowing in freq domain equals to X * W.
+The main lobe of hann window is wider. On the other hand, rect window narrower and centered, so the first harmonic show stronger than the other. Also the high freq parts do not fade as quick as they in hand window.
+
